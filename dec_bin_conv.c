@@ -1,18 +1,4 @@
-/*#include<stdio.h>
-int main()
-{
-	char a,b,c,d,e,f;
-	printf("Enter a single digit for a,b,c:");
-	scanf("%c%c%c",&a,&b,&c);
-	d=a+b+c;
-	e=a;
-	f=b;
-	a=d-(a+c);
-	b=d-(b+e);
-	c=d-(c+f);
-	printf("%c%c%c",a,b,c);
-	return 0;
-}*/
+
 
 #include<stdio.h>
 int main()
